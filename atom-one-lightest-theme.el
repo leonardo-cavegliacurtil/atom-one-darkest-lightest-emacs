@@ -171,6 +171,11 @@
  '(sp-show-pair-match-face ((t (:background "#EDEDED" :weight bold))))
  '(web-mode-symbol-face ((t (:foreground "#986801"))))
  '(flx-highlight-face ((t (:inherit (link) :weight bold))))
+ '(org-heading-1 ((t (:background "#ffeccc" :height 1.2))))
+ '(org-heading-2 ((t (:background "#ffcccf" :height 1.2))))
+ '(org-heading-3 ((t (:background "#e1ffcc" :height 1.2))))
+ '(org-heading-4 ((t (:background "#f3ccff" :height 1.2))))
+ '(org-heading-5 ((t (:background "#cce8ff" :height 1.2))))
  '(default ((t (:background "#f9f9f9" :foreground "#383A42")))))
 
 (provide-theme 'atom-one-lightest)

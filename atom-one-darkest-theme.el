@@ -179,6 +179,11 @@
  '(term-color-red ((t :foreground "#E06C75")))
  '(term-color-white ((t :foreground "#ABB2BF")))
  '(term-color-yellow ((t (:foreground "#D19A66"))))
+ '(org-heading-1 ((t (:background "#332a1b" :height 1.2))))
+ '(org-heading-2 ((t (:background "#33181a" :height 1.2))))
+ '(org-heading-3 ((t (:background "#27331f" :height 1.2))))
+ '(org-heading-4 ((t (:background "#2d1b33" :height 1.2))))
+ '(org-heading-5 ((t (:background "#142533" :height 1.2))))
  '(default ((t (:background "#121212" :foreground "#ABB2BF")))))
 
 (provide-theme 'atom-one-darkest)
