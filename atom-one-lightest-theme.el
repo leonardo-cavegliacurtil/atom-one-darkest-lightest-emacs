@@ -176,7 +176,7 @@
  '(org-heading-3 ((t (:background "#e1ffcc" :height 1.2))))
  '(org-heading-4 ((t (:background "#f3ccff" :height 1.2))))
  '(org-heading-5 ((t (:background "#cce8ff" :height 1.2))))
- '(tab-bar ((t (:background "#E0E0E0" :foreground "#383A42"))))
+ '(tab-bar ((t (:inherit default))))
  '(tab-bar-tab ((t (:box (:line-width 1 :style nil) :inherit tab-bar))))
  '(tab-bar-tab-inactive ((t (:inherit tab-bar))))
  '(default ((t (:background "#f9f9f9" :foreground "#383A42")))))

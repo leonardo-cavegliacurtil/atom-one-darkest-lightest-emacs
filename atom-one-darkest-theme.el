@@ -184,7 +184,7 @@
  '(org-heading-3 ((t (:background "#27331f" :height 1.2))))
  '(org-heading-4 ((t (:background "#2d1b33" :height 1.2))))
  '(org-heading-5 ((t (:background "#142533" :height 1.2))))
- '(tab-bar ((t (:background "#0F1011" :foreground "#AAAAAA"))))
+ '(tab-bar ((t (:inherit default))))
  '(tab-bar-tab ((t (:box (:line-width 1 :style nil) :inherit tab-bar))))
  '(tab-bar-tab-inactive ((t (:inherit tab-bar))))
  '(default ((t (:background "#121212" :foreground "#ABB2BF")))))
