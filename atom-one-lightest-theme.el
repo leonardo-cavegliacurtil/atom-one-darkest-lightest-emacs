@@ -16,7 +16,7 @@
  '(vertical-border ((t (:foreground "#A0A1A7"))))
  '(secondary-selection ((t (:background "#E5E5E6"))))
  '(query-replace ((t (:inherit (isearch)))))
- '(minibuffer-prompt ((t (:foreground "#AAAAAA"))))
+ '(minibuffer-prompt ((t (:foreground "#767676"))))
  '(font-lock-builtin-face ((t (:foreground "#0184BC"))))
  '(font-lock-comment-face ((t (:foreground "#A0A1A7"))))
  '(font-lock-comment-delimiter-face ((default (:inherit (font-lock-comment-face)))))
